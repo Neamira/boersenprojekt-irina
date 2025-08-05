@@ -1,0 +1,4 @@
+- [ ] Tägliche Kurserfassung automatisieren
+- [ ] Daten in Notion integrieren
+- [ ] Charts mit matplotlib erstellen
+- [ ] GPT-Modul zur Bewertung einbinden
